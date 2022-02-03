@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Python Magiccube" />
+  <img src="https://i.gifer.com/I6HP.gif" alt="Python Magiccube" />
 
   &#xa0;
 
@@ -30,7 +30,7 @@
 	🚧  Python Magiccube 🚀 Under construction...  🚧
 </h4> 
 
-<hr> -->
+<hr>
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
