@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="https://i.gifer.com/I6HP.gif" alt="Python Magiccube" />
+  <img src="https://growthclub.com.br/wp-content/uploads/2019/10/cube-db.gif" alt="Python Magiccube" />
 
   &#xa0;
 
