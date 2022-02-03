@@ -46,7 +46,7 @@
 
 ## :dart: About ##
 
-The Python Rubik's Cube Solver is a Python Open Source project that will help you to recognize and solve all of the moves available in a random suffled cube.
+The Python Magiccube is a Python Open Source project that will help you to recognize and solve all of the moves available in a random suffled cube.
 
 ## :sparkles: Features ##
 
